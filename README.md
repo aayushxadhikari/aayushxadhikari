@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Node.js, React**
 
 - 💬 Ask me about **dart, flutter**
 
