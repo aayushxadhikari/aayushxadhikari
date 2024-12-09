@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,graphql,postman,selenium" />
+    <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,graphql,postman,selenium,node" />
   </a>
 </p>
 
