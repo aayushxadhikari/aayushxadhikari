@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Aayush Adhikari and I'm a FullStack Developer.</h2>
+<h1 align="center">Hi 👋, I'm Aayush Adhikari</h1>
+<h3 align="center">A passionate mobile application developer from Nepal</h3> <
 
 ###
 
@@ -14,7 +15,7 @@
 ###
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,graphql,postman,selenium" /> 
+<h3 align="left">Languages and Tools:</h3> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,graphql,postman,selenium" /> </a> </p>
 </div>
 
 ###
