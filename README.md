@@ -18,8 +18,7 @@
 </div>
 
 ###
-<img align="left" height="150" src="
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam45NDA5bXJtbDFuZ3hrcmZ1c2w0Y2RrYnk5a2ZkY2tjNGRpdGw5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp"  />
+<img align="left" height="150" src=""  />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 ###
 https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam45NDA5bXJtbDFuZ3hrcmZ1c2w0Y2RrYnk5a2ZkY2tjNGRpdGw5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.webp
