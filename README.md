@@ -27,8 +27,6 @@
   </p>
 </div>
 
-### 🎯 Stats & Achievements
-
 <div align="center">
   <img align="left" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programming GIF" style="border-radius: 15px;" />
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" style="border-radius: 15px;" />
