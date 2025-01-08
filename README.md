@@ -13,7 +13,6 @@
 <p align="center">
   🌱 I’m currently learning advanced Flutter and backend technologies.<br>
   💬 Ask me about mobile app development, Flutter, and Dart.<br>
-  ⚡ Fun fact: I love exploring open-source projects and creating solutions that impact lives!
 </p>
 
 ### 🚀 Languages and Tools
@@ -22,7 +21,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,graphql,postman,selenium" alt="Skills" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,postman,selenium" alt="Skills" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
   </p>
 </div>
