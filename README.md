@@ -21,7 +21,7 @@
   <h3 align="left">Languages and Tools:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,postman,selenium" alt="Skills" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+      <img src="https://skillicons.dev/icons?i=html,css,go,flutter,dart,django,mongodb,sqlite,python,git,c,cpp,docker,postman,selenium" alt="Skills" style="margin: 5px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
   </p>
 </div>
