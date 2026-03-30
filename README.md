@@ -36,7 +36,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aayush-adhikari-768224195/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aayush%20Adhikari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/aayush-adhikari-80b6b0382/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Aayush%20Adhikari-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"></a>
   <a href="https://github.com/aayushxadhikari" target="_blank"><img src="https://img.shields.io/badge/GitHub-aayushxadhikari-black?style=for-the-badge&logo=github" alt="GitHub Badge"></a>
   <a href="mailto:aayushxadhikari@gmail.com"><img src="https://img.shields.io/badge/Email-aayushxadhikari%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email Badge"></a>
 </p>
