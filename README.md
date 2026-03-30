@@ -8,8 +8,8 @@
 ### 📖 About Me
 
 <p align="center">
-  🌱 I’m currently learning advanced Flutter and backend technologies.<br>
-  💬 Ask me about mobile app development, Flutter, and Dart.<br>
+  🌱 I’m currently learning advanced data engineering concepts and toosl and backend technologies.<br>
+  💬 Ask me about Data, Python, SQL, GoLang.<br>
 </p>
 
 ### 🚀 Languages and Tools
