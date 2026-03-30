@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Adhikari</h1>
-<h3 align="center">A passionate mobile application developer from Nepal</h3>
+<h3 align="center">A passionate Data Engineer and also a Software Developer from Nepal</h3>
 
 ###
 
